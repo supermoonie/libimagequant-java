@@ -1,4 +1,4 @@
-output.png
+*.png
 bin/
 target/
 .classpath
@@ -8,3 +8,4 @@ target/
 cmake-build-debug/
 .DS_STORE
 src/main/resources
+*.iml
